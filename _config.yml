@@ -52,14 +52,14 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  #email: "someone@example.com"
+# email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  #facebook: deanattali
+# facebook: 
   github: trabbitw
-  #twitter: daattali
-  #patreon: DeanAttali
-  #youtube: "@daattali"
-  #whatsapp: 15551212
+# twitter: 
+# patreon: 
+# youtube: "@"
+# whatsapp: 
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -143,14 +143,14 @@ remove-ads: true
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#f3e6ff"
-navbar-text-col: "#404040"
+hover-col: "#f5e6ff"
+navbar-col: "#5c0099"
+navbar-text-col: "#FFFFFF"
 navbar-border-col: "#DDDDDD"
-footer-col: "#f3e6ff"
-footer-text-col: "#777777"
+footer-col: "#5c0099"
+footer-text-col: "#FFFFFF"
 footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-hover-col: "#f5e6ff"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
